@@ -6,7 +6,7 @@
 I'm Callan Bi.
 
 - 🔭 Interested in TypeScript, JavaScript, React, Electron and everything else
-- 🌱 Currently learning backend technology stack and diving deep into frontend field
+- 🌱 Currently learning Backend technology stack and diving deep into Frontend field
 - 🤔 Want to be a full stack engineer some day
 - 📫 How to reach me: callanbi@callanbi.top
 <!-- 
@@ -25,6 +25,6 @@ I'm Callan Bi.
   </a>
 </div>
 
-### My opensource projects:
+#### Welcome to experience Leetecho - an elegant product for managing and publishing LeetCode notes:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callanbi&repo=leetecho)](https://github.com/callanbi/leetecho)
