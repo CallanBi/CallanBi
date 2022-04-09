@@ -1,16 +1,30 @@
 ### Hi there 👋
 
 <!--
-**CallanBi/CallanBi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CallanBi/CallanBi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I'm Callan Bi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Interested in TypeScript, JavaScript, React, Electron and everything else
+- 🌱 Currently learning backend technology stack and diving deep into frontend field
+- 🤔 Want to be a full stack engineer some day
+- 📫 How to reach me: callanbi@callanbi.top
+<!-- 
+![CallanBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=callanbi&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callanbi&layout=compact)](https://github.com/callanbi/callanbi) -->
+
+<div align="left">
+  <a href="https://github-readme-stats.vercel.app/api?username=callanbi&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=callanbi&show_icons=true"  width="50%"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/callanbi/callanbi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callanbi&layout=compact" width="42%" />
+  </a>
+</div>
+
+### My opensource projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callanbi&repo=leetecho)](https://github.com/callanbi/leetecho)
