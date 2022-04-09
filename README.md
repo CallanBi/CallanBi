@@ -6,8 +6,8 @@
 I'm Callan Bi.
 
 - 🔭 Interested in TypeScript, JavaScript, React, Electron and everything else
-- 🌱 Currently learning Backend technology stack and diving deep into Frontend field
-- 🤔 Want to be a full stack engineer some day
+- 🌱 Currently exploring Backend tech stack and diving deep into Frontend field
+- 🤔 Want to be a real full stack engineer
 - 📫 How to reach me: callanbi@callanbi.top
 <!-- 
 ![CallanBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=callanbi&show_icons=true)
