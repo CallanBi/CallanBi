@@ -5,8 +5,8 @@
 
 I'm Callan Bi.
 
-- 🔭 Interested in TypeScript, JavaScript, React, Electron and everything else
-- 🌱 Currently exploring Backend tech stack and diving deep into Frontend field
+- 🔭 Interested in TypeScript, JavaScript, React, Golang, Electron and everything else
+- 🌱 Currently exploring backend tech stack and diving deep into frontend field
 - 🤔 Want to be a real full stack engineer
 - 📫 How to reach me: callanbi@callanbi.top
 
