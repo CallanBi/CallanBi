@@ -11,17 +11,17 @@ I'm Callan Bi.
 - 📫 How to reach me: callanbi@callanbi.top
 
 <!-- 
-![CallanBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=callanbi&show_icons=true)
+![CallanBi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CallanBi&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callanbi&layout=compact)](https://github.com/callanbi/callanbi) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallanBi&layout=compact)](https://github.com/CallanBi/CallanBi) -->
 
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callanbi&layout=compact" width="42%" alt="top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallanBi&layout=compact" width="42%" alt="top languages" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callanbi&show_icons=true"  width="50%" alt="profiles" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CallanBi&show_icons=true"  width="50%" alt="profiles" />
 </div>
 
 #### Welcome to experience Leetecho - an elegant product for managing and publishing LeetCode notes:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callanbi&repo=leetecho)](https://github.com/callanbi/leetecho)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CallanBi&repo=leetecho)](https://github.com/callanbi/leetecho)
