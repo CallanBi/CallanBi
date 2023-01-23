@@ -16,8 +16,9 @@ I'm Callan Bi.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallanBi&layout=compact)](https://github.com/CallanBi/CallanBi) -->
 
-<div align="left">
+<!-- <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CallanBi&theme=radical" width="32%" height="200px" alt="top languages" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CallanBi&show_icons=true&theme=radical"  width="50%" alt="profiles" />
 </div>
+ -->
