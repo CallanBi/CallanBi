@@ -5,8 +5,7 @@
 
 I'm Callan Bi.
 
-- 🌱 Currently exploring backend tech stack and diving deep into frontend field
-- 🤔 Fullstack SDE
+- 💪 Fullstack SDE
 - 📫 How to reach me: callanbi@callanbi.top
 
 <!-- 
